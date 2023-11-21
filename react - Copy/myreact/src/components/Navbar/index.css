@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(54, 54, 54);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    color: white;
+}
